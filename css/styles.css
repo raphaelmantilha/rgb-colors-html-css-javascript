@@ -1,0 +1,32 @@
+#label-red{
+    color:red;
+}
+
+#label-green{
+    color:green;
+}
+
+#label-blue{
+    color:blue;
+}
+
+input{
+    margin-left: 20px;
+}
+
+input[type="text"]{
+    width: 40px;
+}
+
+input[type="range"]{
+    width: 840px;
+}
+
+#square{
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    color: black;
+    border: solid;
+}
+    
